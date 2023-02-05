@@ -27,6 +27,7 @@ const AllUsers = () => {
             }
          })
     }
+
     return (
         <div>
             <h2 className='text-3xl'>All Users</h2>
